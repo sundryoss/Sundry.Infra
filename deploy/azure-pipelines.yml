@@ -9,6 +9,7 @@ resources:
     - repository: templates
       type: github
       name: sundryoss/Sundry.Infra
+      endpoint: sundryoss
 
 pool:
   vmImage: ubuntu-latest
